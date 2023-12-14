@@ -1,0 +1,36 @@
+# Roadmap
+
+- [x] Initial development documentation
+- [ ] YarnsServer
+  - [ ] YarnsDB
+  - [ ] UserDB
+  - [ ] YarnsExtractor
+  - [ ] Administration documentation
+- [ ] YarnsApp
+  - [ ] [UC26 - View what this app is about](../docs/development/analysis/use-cases.md#uc26---view-what-this-app-is-about)
+  - [ ] [UC18 - Configure the app](../docs/development/analysis/use-cases.md#uc18---configure-the-app)
+  - [ ] [UC19 - Configure YarnsDB source](../docs/development/analysis/use-cases.md#uc19---configure-yarnsdb-source)
+  - [ ] [UC22 - Configure UserDB instance](../docs/development/analysis/use-cases.md#uc22---configure-userdb-instance)
+  - [ ] [UC23 - Register into a UserDB instance](../docs/development/analysis/use-cases.md#uc23---register-into-a-userdb-instance)
+  - [ ] [UC24 - Delete account from a UserDB instance](../docs/development/analysis/use-cases.md#uc24---delete-account-from-a-userdb-instance)
+  - [ ] [UC20 - Update YarnsDB](../docs/development/analysis/use-cases.md#uc20---update-yarnsdb)
+  - [ ] [UC25 - Reset application](../docs/development/analysis/use-cases.md#uc25---reset-application)
+  - [ ] [UC01 - Search for yarns](../docs/development/analysis/use-cases.md#uc1---discover-new-yarns)
+  - [ ] [UC02 - List yarns](../docs/development/analysis/use-cases.md#uc2---update-yarnsdb)
+  - [ ] [UC03 - View yarn information](../docs/development/analysis/use-cases.md#uc3---view-yarn-information)
+  - [ ] [UC21 - Add custom Yarns](../docs/development/analysis/use-cases.md#uc21---add-custom-yarns)
+  - [ ] [UC04 - Rate yarns](../docs/development/analysis/use-cases.md#uc4---rate-yarns)
+  - [ ] [UC05 - Create lists](../docs/development/analysis/use-cases.md#uc5---create-lists)
+  - [ ] [UC08 - Browse lists](../docs/development/analysis/use-cases.md#uc8---browse-lists)
+  - [ ] [UC06 - Delete lists](../docs/development/analysis/use-cases.md#uc6---delete-lists)
+  - [ ] [UC07 - Edit lists](../docs/development/analysis/use-cases.md#uc7---edit-lists)
+  - [ ] [UC14 - Export lists](../docs/development/analysis/use-cases.md#uc14---export-lists)
+  - [ ] [UC15 - Backup personal data](../docs/development/analysis/use-cases.md#uc15---backup-personal-data)
+  - [ ] [UC16 - Restore personal data](../docs/development/analysis/use-cases.md#uc16---restore-personal-data)
+  - [ ] [UC09 - View interesting rating statistics](../docs/development/analysis/use-cases.md#uc9---view-interesting-rating-statistics)
+  - [ ] [UC12 - Share personal lists with other users](../docs/development/analysis/use-cases.md#uc12---share-personal-lists-with-other-users)
+  - [ ] [UC13 - Select a yarn to consume collectively](../docs/development/analysis/use-cases.md#uc13---select-a-yarn-to-consume-collectively)
+  - [ ] [UC10 - Discover new yarns](../docs/development/analysis/use-cases.md#uc10---discover-new-yarns)
+  - [ ] [UC11 - See the probability of liking a yarn based on ratings](../docs/development/analysis/use-cases.md#uc11---see-the-probability-of-liking-a-yarn-based-on-ratings)
+  - [ ] [UC17 - Delete all personal data from remote instance](../docs/development/analysis/use-cases.md#uc17---delete-all-personal-data-from-remote-instance)
+- [ ] User documentation

@@ -1,0 +1,36 @@
+{
+    "name": "YarnsApp/documentation",
+    "image": "mcr.microsoft.com/devcontainers/base:debian",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "bierner.github-markdown-preview",
+                "DavidAnson.vscode-markdownlint",
+                "foxundermoon.shell-format",
+                "shd101wyy.markdown-preview-enhanced",
+                "streetsidesoftware.code-spell-checker",
+                "timonwong.shellcheck",
+                "yzhang.markdown-all-in-one"
+            ]
+        }
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/common-utils:2": {
+            "installZsh": "true",
+            "configureZshAsDefaultShell": "true",
+            "installOhMyZsh": "true",
+            "upgradePackages": "true",
+            "username": "vscode",
+            "nonFreePackages": "false"
+        },
+        "ghcr.io/devcontainers/features/git:1": {
+            "version": "os-provided",
+            "ppa": "false"
+        }
+    },
+    "remoteUser": "vscode",
+    "containerEnv": {
+        "LANG": "${localEnv:LANG}",
+        "ZSH_CUSTOM": "${localEnv:ZSH_CUSTOM}"
+    }
+}

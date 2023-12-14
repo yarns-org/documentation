@@ -1,0 +1,22 @@
+{
+    "markdown-preview-enhanced.breakOnSingleNewLine": false,
+    "markdown-preview-enhanced.mermaidTheme": "dark",
+    "markdown-preview-enhanced.previewTheme": "github-dark.css",
+    "material-icon-theme.folders.associations": {
+        "analysis": "lib",
+        "development": "src"
+    },
+    "cSpell.words": [
+        "bitnami",
+        "cloudant",
+        "imdb",
+        "interconnectivity",
+        "Postconditions",
+        "revpos",
+        "SPARQL",
+        "Telenovelas",
+        "TMDB",
+        "tvseries",
+        "wikibase"
+    ]
+}
